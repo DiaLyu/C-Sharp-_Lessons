@@ -1,0 +1,10 @@
+D:\Университет\C# lessons\lab_work№15\bin\Debug\lab_work№15.exe.config
+D:\Университет\C# lessons\lab_work№15\bin\Debug\lab_work№15.exe
+D:\Университет\C# lessons\lab_work№15\bin\Debug\lab_work№15.pdb
+D:\Университет\C# lessons\lab_work№15\obj\Debug\lab_work№15.csproj.AssemblyReference.cache
+D:\Университет\C# lessons\lab_work№15\obj\Debug\lab_work_15.Form1.resources
+D:\Университет\C# lessons\lab_work№15\obj\Debug\lab_work_15.Properties.Resources.resources
+D:\Университет\C# lessons\lab_work№15\obj\Debug\lab_work№15.csproj.GenerateResource.cache
+D:\Университет\C# lessons\lab_work№15\obj\Debug\lab_work№15.csproj.CoreCompileInputs.cache
+D:\Университет\C# lessons\lab_work№15\obj\Debug\lab_work№15.exe
+D:\Университет\C# lessons\lab_work№15\obj\Debug\lab_work№15.pdb

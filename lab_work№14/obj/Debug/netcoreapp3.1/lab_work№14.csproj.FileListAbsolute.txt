@@ -1,0 +1,16 @@
+D:\Университет\C# lessons\lab_work№14\obj\Debug\netcoreapp3.1\lab_work№14.csprojAssemblyReference.cache
+D:\Университет\C# lessons\lab_work№14\obj\Debug\netcoreapp3.1\lab_work№14.AssemblyInfoInputs.cache
+D:\Университет\C# lessons\lab_work№14\obj\Debug\netcoreapp3.1\lab_work№14.AssemblyInfo.cs
+D:\Университет\C# lessons\lab_work№14\obj\Debug\netcoreapp3.1\lab_work№14.csproj.CoreCompileInputs.cache
+D:\Университет\C# lessons\lab_work№14\bin\Debug\netcoreapp3.1\lab_work№14.exe
+D:\Университет\C# lessons\lab_work№14\bin\Debug\netcoreapp3.1\lab_work№14.deps.json
+D:\Университет\C# lessons\lab_work№14\bin\Debug\netcoreapp3.1\lab_work№14.runtimeconfig.json
+D:\Университет\C# lessons\lab_work№14\bin\Debug\netcoreapp3.1\lab_work№14.runtimeconfig.dev.json
+D:\Университет\C# lessons\lab_work№14\bin\Debug\netcoreapp3.1\lab_work№14.dll
+D:\Университет\C# lessons\lab_work№14\bin\Debug\netcoreapp3.1\lab_work№14.pdb
+D:\Университет\C# lessons\lab_work№14\bin\Debug\netcoreapp3.1\labwork10.dll
+D:\Университет\C# lessons\lab_work№14\bin\Debug\netcoreapp3.1\labwork10.pdb
+D:\Университет\C# lessons\lab_work№14\obj\Debug\netcoreapp3.1\lab_work№14.csproj.CopyComplete
+D:\Университет\C# lessons\lab_work№14\obj\Debug\netcoreapp3.1\lab_work№14.dll
+D:\Университет\C# lessons\lab_work№14\obj\Debug\netcoreapp3.1\lab_work№14.pdb
+D:\Университет\C# lessons\lab_work№14\obj\Debug\netcoreapp3.1\lab_work№14.genruntimeconfig.cache
